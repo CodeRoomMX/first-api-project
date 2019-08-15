@@ -7,7 +7,7 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "vampaynani",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
@@ -15,5 +15,6 @@
     "faker": "^4.1.0",
     "morgan": "^1.9.1",
     "uuid": "^3.3.2"
-  }
+  },
+  "alias": "coderoom-first-api-project"
 }
